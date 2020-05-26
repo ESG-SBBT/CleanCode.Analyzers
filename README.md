@@ -1,1 +1,1 @@
-# CleanCode.Analyzers
+# CleanCode.Analyzers ![travis](https://travis-ci.org/ESG-SBBT/CleanCode.Analyzers.svg?branch=master)
